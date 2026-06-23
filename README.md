@@ -56,13 +56,13 @@ Home Page
 
 Add a screenshot here:
 
-![Home Page](screenshots/home.png)
+![Home Page](interface/home.png)
 
 Recommendation Results
 
 Add a screenshot here:
 
-![Recommendations](screenshots/recommendations.png)
+![Recommendations](interface/recommendations.png)
 
 📊 Dataset
 
