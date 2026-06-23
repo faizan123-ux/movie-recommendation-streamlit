@@ -54,13 +54,13 @@ streamlit run app.py
 
 Home Page
 
-Add a screenshot here:
+interface screenshot here:
 
 ![Home Page](interface/home.png)
 
 Recommendation Results
 
-Add a screenshot here:
+interface screenshot here:
 
 ![Recommendations](interface/recommendations.png)
 
