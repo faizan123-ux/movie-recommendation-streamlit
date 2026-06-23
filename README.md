@@ -56,13 +56,13 @@ Home Page
 
 interface screenshot here:
 
-![Home Page](interface/home.png)
+![Home Page](interface/home_v2.png)
 
 Recommendation Results
 
 interface screenshot here:
 
-![Recommendations](interface/recommendations.png)
+![Recommendations](interface/recommendations_v2.png)
 
 📊 Dataset
 
