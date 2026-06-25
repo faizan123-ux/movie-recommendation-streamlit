@@ -4,9 +4,7 @@ import pandas as pd
 import requests
 from recommender import recommend
 
-# ---------------------------
-# Load Data
-# ---------------------------
+
 
 movies = pd.read_csv("movies.csv")
 ratings = pd.read_csv("ratings.csv")
@@ -24,9 +22,7 @@ movies = movies.merge(
     how="left"
 )
 
-# ---------------------------
-# TMDb Poster Function
-# ---------------------------
+
 
 @st.cache_data
 def fetch_poster(movie_title):
@@ -68,9 +64,7 @@ def fetch_poster(movie_title):
 
     return None
 
-# ---------------------------
-# Streamlit UI
-# ---------------------------
+
 
 st.set_page_config(
     page_title="Movie Recommendation System",
@@ -84,9 +78,7 @@ selected_movie = st.selectbox(
     movies["title"].values
 )
 
-# ---------------------------
-# Recommendation Button
-# ---------------------------
+
 
 if st.button("Recommend"):
 
