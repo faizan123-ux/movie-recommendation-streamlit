@@ -79,6 +79,7 @@ search_movie = st.text_input(
     "Type a movie name"
 )
 
+<<<<<<< HEAD
 movie_list = []
 
 if search_movie:
@@ -99,6 +100,8 @@ selected_movie = st.selectbox(
 
 
 
+=======
+>>>>>>> 835dbeaa7e16d81f15802d7721a705f914fb1c52
 
 
 if st.button("Recommend"):
