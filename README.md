@@ -87,3 +87,5 @@ These datasets contain movie information and user ratings used to generate recom
 Faizan
 
 GitHub: https://github.com/faizan123-ux
+
+website link: https://movie-recommendation-app-45v2pkonrevdj6kczwwdry.streamlit.app/
